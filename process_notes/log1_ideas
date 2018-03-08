@@ -1,23 +1,47 @@
 Guess who is actually posting a log before the due date? I'm as shocked as you are.
 
-I suppose it's some combination of knowing what I'm doing now/not having to do the entire module in 2 days before flying halfway across the world that has led me here.
+I suppose it's some combination of knowing what I'm doing now/not having to do the entire module in 2 days before flying halfway across 
+the world that has led me here.
 
 Well, let's get started shall we? 
-Really all I have are cursory notes about where I am/where I want to go with module 3. It's the game world module, which is super exciting because I'm a nerd who loves video games. 
+Really all I have are cursory notes about where I am/where I want to go with module 3. It's the game world module, which is super exciting
+because I'm a nerd who loves video games. 
 
-In terms of platform, I immediately gravitate towards using RPG Maker. For one, I'm familiar with the software because I used to spend summers making random games. Since we only have a couple weeks (now 10 days), I figure this will allow me to spend less time worrying about how to implement what I want to do and more time coming up with ideas of what I want to do. The software itself does not require programming skills to do the basics, but you can add onto it by either writing your own custom scripts or scripts the community has made. This serves as a nice mix of both ease of use and possibile customization, although again there is the time limit factor. Since I am pretty terrible at anything to do with graphics, the biggest bonuses are the simple and easy mapping, wealth of preset objects/textures, the wide variety and availablity of fan made objects, and that I might be able to scrounge together a passable sprite of my object. 
+In terms of platform, I immediately gravitate towards using RPG Maker. For one, I'm familiar with the software because I used to spend 
+summers making random games. Since we only have a couple weeks (now 10 days), I figure this will allow me to spend less time worrying 
+about how to implement what I want to do and more time coming up with ideas of what I want to do. The software itself does not require 
+programming skills to do the basics, but you can add onto it by either writing your own custom scripts or scripts the community has made. 
+This serves as a nice mix of both ease of use and possibile customization, although again there is the time limit factor. Since I am pretty
+terrible at anything to do with graphics, the biggest bonuses are the simple and easy mapping, wealth of preset objects/textures, the wide 
+variety and availablity of fan made objects, and that I might be able to scrounge together a passable sprite of my object. 
 
-I haven't decided whether I want to go with the newest RPG Maker MV (which uses javascript) or the previous RPG Maker VX Ace (ruby), but that will probably depend on whichever makes it easiest to do what I want to do.
+I haven't decided whether I want to go with the newest RPG Maker MV (which uses javascript) or the previous RPG Maker VX Ace (ruby), but 
+that will probably depend on whichever makes it easiest to do what I want to do.
 
 Which reminds me, I should probably explain what I want to do.
 
-My immediate thought since I have the human-like Raggedy Ann as my model is to make her the playable character in the game. As I mentioned earlier, the biggest obstacle for me personally will be making a sprite (or sprites) of her, so I'm hoping I can knock that out over the weekend. 
+My immediate thought since I have the human-like Raggedy Ann as my model is to make her the playable character in the game. As I mentioned 
+earlier, the biggest obstacle for me personally will be making a sprite (or sprites) of her, so I'm hoping I can knock that out over the 
+weekend. 
 
-I wanted to play around with the ideas of construction, reconstruction and the fragility of objects. This is mainly due to the history of this raggedy ann being remade so many times, that I thought I could make it into a game mechanic. My initial thought is to have the degradation of the doll itself being like an hp bar, that lowers over time/with actions, and can be raised with repair or something.
+I wanted to play around with the ideas of construction, reconstruction and the fragility of objects. This is mainly due to the history of 
+this raggedy ann being remade so many times, that I thought I could make it into a game mechanic. My initial thought is to have the 
+degradation of the doll itself being like an hp bar, that lowers over time/with actions, and can be raised with repair or something.
 
-In terms of the environment, my immediate thought is time limit + my lack of graphic skills = limit the players view. Kind of like why indie horror games like slenderman work well, by limiting the field of vision with darkness it makes the map seem bigger than it is/more immersive despite a lack of resources. Then again, having a top down view already does this, so whether or not I obstruct the players view further will probably depend on what my maps end up looking like. I also don't really want to make a horror game, but this could also work well with mystery/exploration games. 
+In terms of the environment, my immediate thought is time limit + my lack of graphic skills = limit the players view. Kind of like why 
+indie horror games like slenderman work well, by limiting the field of vision with darkness it makes the map seem bigger than it is/more 
+immersive despite a lack of resources. Then again, having a top down view already does this, so whether or not I obstruct the players 
+view further will probably depend on what my maps end up looking like. I also don't really want to make a horror game, but this could 
+also work well with mystery/exploration games. 
 
-I was thinking I could perhaps make a maze or some sort as each level, with each level representing a decade from the 60s to now. This could be portrayed with what objects/textures are there, as well as music choices/etc (although the success of this rides largely on what objects I can find in the community that I can use/what I can recolor myself). In order to progress, you must solve each maze, with individual year markers indicating whether or not you are going in the right direction. The challenge aspect will come by solving the maze before you fall apart. I've been debating on how to do with, initially I thought a timer but now I'm thinking more about using the toy aspect of the model. My thoughts are perhaps to have children in the maze set up like the pokemon trainers in pokemon, where you have to play if you pass them (which will lower your hp bar). There will only be a limited number of repair shops, so you have to figure out how to get out without totally falling apart.
+I was thinking I could perhaps make a maze or some sort as each level, with each level representing a decade from the 60s to now. 
+This could be portrayed with what objects/textures are there, as well as music choices/etc (although the success of this rides largely 
+on what objects I can find in the community that I can use/what I can recolor myself). In order to progress, you must solve each maze, 
+with individual year markers indicating whether or not you are going in the right direction. The challenge aspect will come by solving 
+the maze before you fall apart. I've been debating on how to do with, initially I thought a timer but now I'm thinking more about using 
+the toy aspect of the model. My thoughts are perhaps to have children in the maze set up like the pokemon trainers in pokemon, where you
+have to play if you pass them (which will lower your hp bar). There will only be a limited number of repair shops, so you have to figure 
+out how to get out without totally falling apart.
 
 This is all just ideas though, it will probably all change by the time I actually finish the game. Can't wait to see how this turns out!
 
