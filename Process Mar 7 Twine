@@ -1,25 +1,47 @@
 Okay it's been a day so now I can describe my process without wanting to throw my laptop out the window. :P
 
-For this challenge, we were to make a twine experience using entry tickets from the previous week of this class. Since we only had 1h30m, my immediate approach was to ignore branching storylines and instead focus on linking passages that made sense. I decided rather than having a "next" button at the bottom of the page, to choose a keyword in each entry ticket that would relate to the next one. Not only does this encourage the "player" to read all of it, but to focus on certain aspects of each one. 
+For this challenge, we were to make a twine experience using entry tickets from the previous week of this class. Since we only had 1h30m, 
+my immediate approach was to ignore branching storylines and instead focus on linking passages that made sense. I decided rather than 
+having a "next" button at the bottom of the page, to choose a keyword in each entry ticket that would relate to the next one. Not only 
+does this encourage the "player" to read all of it, but to focus on certain aspects of each one. 
 
-Next step was to actually select the entry tickets to use. Our starting point was our entry tickets from this week, mine being "Narrative nodes are integral for structuring how we can talk about and understand the past, for as mentioned above, no narrative simply exists in a pure form." I began to ctrl-f certain words like "past" "pure" "narrative" as well as scan the list for passages that caught my eye. While I originally sought to go through linking one by one, I found it better/easier to just copy all the passages I liked onto a word document and reorder them from there. I ended up copying about 20 passages, which I further narrowed down to just 10 that made the most sense. 
+Next step was to actually select the entry tickets to use. Our starting point was our entry tickets from this week, mine being "Narrative
+nodes are integral for structuring how we can talk about and understand the past, for as mentioned above, no narrative simply exists in a 
+pure form." I began to ctrl-f certain words like "past" "pure" "narrative" as well as scan the list for passages that caught my eye. While
+I originally sought to go through linking one by one, I found it better/easier to just copy all the passages I liked onto a word document 
+and reorder them from there. I ended up copying about 20 passages, which I further narrowed down to just 10 that made the most sense. 
 
-Now, my "genius" (note: not actually genius) idea to involve macros was to add audio. My thought process being it would be a shortcut to making the audience feel a certain way/give an overall tone to the final product. Since sugarcube has an audio macro built in, it would be easy to implement using these guides (https://twinery.org/cookbook/audio/sugarcube/sugarcube_audio.html) (http://www.adamhammond.com/twineguide/). 
+Now, my "genius" (note: not actually genius) idea to involve macros was to add audio. My thought process being it would be a shortcut to 
+making the audience feel a certain way/give an overall tone to the final product. Since sugarcube has an audio macro built in, it would be 
+easy to implement using these guides (https://twinery.org/cookbook/audio/sugarcube/sugarcube_audio.html) 
+(http://www.adamhammond.com/twineguide/). 
 
 Obviously I had to find royalty free music, in which a quick google search led me to: (http://incompetech.com/music/royalty-free/music.html). All of the music is pretty great, so it was not hard to find something I liked pretty quickly. I ended up choosing "Mystery Bazaar" due to it's mysterious, foreign vibe. It envokes the feeling of being on a journey, which is something I wanted the audience to feel. 
 
-Now, it actually took me a lot longer than I thought to actually implement the audio macros (<<audio>> and <<cacheaudio>>) because 1: I had to watch the video guide in order to understand what "StoryInit" meant, and 2: in classic coding form, I forgot a quotation mark and spent 10 min trying to figure out why I was getting an error. However, eventually I was able to get it to work.
+Now, it actually took me a lot longer than I thought to actually implement the audio macros (<<audio>> and <<cacheaudio>>) because 1: I 
+had to watch the video guide in order to understand what "StoryInit" meant, and 2: in classic coding form, I forgot a quotation mark and 
+spent 10 min trying to figure out why I was getting an error. However, eventually I was able to get it to work.
 
-From here, I needed to work with the actual text. I copied each passage from my word document in the sequence I wanted pretty quickly. Next was to change the background color, text color, and font in order to reflect the mood of each quote. I used the aformentioned twine guide (http://www.adamhammond.com/twineguide/) to format the default settings (using edit stylesheet), and then make a setting for each box using tags. To choose which colors/font each should use, I made use of an online css color guide (https://www.quackit.com/css/css_color_codes.cfm) and a common font guide (https://www.cssfontstack.com/). 
+From here, I needed to work with the actual text. I copied each passage from my word document in the sequence I wanted pretty quickly. 
+Next was to change the background color, text color, and font in order to reflect the mood of each quote. I used the aformentioned 
+twine guide (http://www.adamhammond.com/twineguide/) to format the default settings (using edit stylesheet), and then make a setting 
+for each box using tags. To choose which colors/font each should use, I made use of an online css color guide 
+(https://www.quackit.com/css/css_color_codes.cfm) and a common font guide (https://www.cssfontstack.com/). 
 
-This is how the actual final product came to be, although I also tried to implement a typewriter effect as well as a custom fadein/fadeout macro. Ultimately I played around with each for about 10 min and they didn't work, so rather than spending 30 min troubleshooting each I just scrapped them. Maybe next time!
+This is how the actual final product came to be, although I also tried to implement a typewriter effect as well as a custom 
+fadein/fadeout macro. Ultimately I played around with each for about 10 min and they didn't work, so rather than spending 30 min 
+troubleshooting each I just scrapped them. Maybe next time!
 
-Finally it was time to actually upload to philome la. First step: make a new fake twitter account. After that was done, I uploaded my game only to find out that I couldn't upload additional audio files and therefore the sound wouldn't work. 
+Finally it was time to actually upload to philome la. First step: make a new fake twitter account. After that was done, I uploaded my 
+game only to find out that I couldn't upload additional audio files and therefore the sound wouldn't work. 
 
-At this point, the time limit was over, but I did not want to make all my work on the audio a waste. So I reworked the macros to take the mp3 file from a url and tried both finding a link from the original site (couldnt find one) and uploading the audio to about 5 different hosting sites. Sadly, in the end none of them seemed to work (hence why I wanted to throw my computer out the window) and I was already overtime so I had to scrap it. It happens, at least I can still play it as I intended. 
+At this point, the time limit was over, but I did not want to make all my work on the audio a waste. So I reworked the macros to take 
+the mp3 file from a url and tried both finding a link from the original site (couldnt find one) and uploading the audio to about 5 
+different hosting sites. Sadly, in the end none of them seemed to work (hence why I wanted to throw my computer out the window) and 
+I was already overtime so I had to scrap it. It happens, at least I can still play it as I intended. 
 
 And that is the story on how my twine experience came to be. 
 
-The End. 
+And now for some reason the "soft wrap" wont commit. Sigh.....
 
 
