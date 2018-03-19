@@ -1,0 +1,19 @@
+Raggedy Ann Game Paradata
+
+Elise Anderson
+
+Introduction:
+In my opinion, video games are a medium that have not even come close to reaching their potential as a tool. The ability to make a user (or player) engage with entirely fabricated surroundings is incredibly powerful. In the case of my Raggedy Ann doll, it had previously just been a 3d model with its meaning largely inferred. However, now an audience can not only read about its history, but experience it.
+
+Why has it been created and for what use?
+
+1) I wanted to create a new way to engage with the history of the Raggedy Ann doll through video games
+2) I wanted to make the player feel nostalgia for the time period (or idea of the time period) or their own childhood, and provoke their own thoughts on memory
+3) I wanted to create a functional game, with some aspects of challenge, an interesting story, and some degree of immersion
+
+Approach and methods/steps
+
+I created the ideas for game mechanics/story/atmosphere over several weeks, using the history of the model for inspiration. I created groups of ideas for memories to piece together a story. From here, I created maps, sprites and events using RPG Maker MV. I made the maps maze-like to add challenge, and create a sense of an imaginary world. I additionally used scripts from Khas and Yanfly for additional customization and to use a fog effect in game. To "code" the game, I used a series of boolean variables (switches) as well as an item inventory to keep track of memories and game progress. I used music from 8bituniverse to further the nostalgic tone and place the setting in the 70s/80s. I then exported the files and uploaded them to google drive. 
+
+Uncertainty and Alternate Interpretation
+Because of the personal nature of all the memories, the way the game is interpreted could vary wildly depending on the player. I tried to keep the memories specific enough to show they're real, but short and vague enough that the audience can still relate (or at least invoke a new thought due to it). The setting itself is vaguely East Coast 1970s/80s, it envokes motifs of this but is still vague/dreamlike/open to interpretation. The whole point is to envoke a feeling, an experience, and a way of thinking about memory. Therefore, this experience will be unique to the player (or even just to that specific playthrough). There's also the aspect of it being a beta beta beta game, so the lack of polish means that glitches can also affect the player's experience and interpretation. 
