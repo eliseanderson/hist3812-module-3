@@ -1,0 +1,37 @@
+So I called this log "the rest" since the last one was called ideas, but really I've been doing anything but resting.
+Not even sure if my compression file will work(rpg maker has a habit of not working on other people's machines unless you export it with a 
+certain pacakage in a certain folder, and presumably also on a full moon on friday the 13th. Yay technology!) so I should probably double 
+check that.
+And I need playtest all my events/doors/items work
+And I need to download/add music.
+And I need to add another map.
+And I need to add more to hypothesis.
+And I need to do a forensic psych quiz.
+And I need to cry about my procrastination life choices. 
+In fairness to me, someone at work was sick so I had far less free time this week to work on this than I had anticipated. If I had more 
+time, I would have added more scripts/plugins/whatever they're called now to make the game cleaner (less laggy, less random map glitches, 
+etc). I also wanted to add more maps and more interactivity within each map, but what can you do. 
+
+Anyways, enough about what I didn't do, let me tell you what I did do!
+I think in my last log I explained why my thoughts went to using darkness to obscure the map. However, upon reflection, I decided to kind 
+of move away from the horror genre. This also meant I scrapped my original ideas about deconstruction and decay, because it'd be kind of 
+morbid and also would mean I'd have to dot by dot sprite (which is basically my worst nightmare). Instead, I decided to use fog to give 
+the game a kind of mysterious, dreamlike vibe. I found a script from Khas called Advanced Fog 
+(http://arcthunder.blogspot.ca/p/rpg-maker-mv-plugins.html) which I absolutely love! I ended up rewriting the fog settings completely in 
+Notepad in order to have blue fog (aka non threating, but still odd and ethereal) that gets denser as you progress THEREFORE adding 
+difficulty without me getting miraculously better at mapping. 
+
+I also added another plugin by Yanfly called Main Menu Manager (http://yanfly.moe/2015/10/17/yep-14-main-menu-manager/) in order to make my menu a lot cleaner (default menu has a bunch of random unneccesary battling stuff). Not that exciting but useful nonetheless!
+
+As for the maps, partly due to the theme of my game (and partly because I'm a terrible artist) I decided to make the maps/ levels mazes. Not only does this add some difficulty in progresssing, but it also adds to the kind of mysterious/curious/Alice in wonderland-y vibe. I could attempt to badly recreate 1970/80ss east coast small towns, OR I could use the maze to kind of mesh (remix!) together elements of each setting. For instance, I lined several walls of the school house with desks to remind players of where they are without being literally classrooms upon classrooms of lined desks.
+
+I could go on all day about the individual choices I made for each level, so I'll try to post that tomorrow or sometime after.
+
+I didn't end up using any objects or character graphics besides what was included/I could make using the included create a character thing (Raggedy Ann and Adult Jenny were made by this) so nothing too noteworthy there.
+
+Now, y'all say graphics aren't everything (thank god), but I believe it was Andrew's lecture when we discussed the use of sound. I already tried (and failed) to incorporate sound into my Twine game thing, so I was determined to make use of sound this time! Especially since I wanted to have a nostalgic vibe, there is no better way of doing that than using nostalgic music. I ended up finding 8 bit remixes of songs on youtube, and by far the best collection was by 8bituniverse (https://www.youtube.com/channel/UCn4HDI02U4f3VEsghRX7dRw). I emailed them asking permission to use their music (and they got back to me in time with their consent for educational use thankfully!) so I ended up buying 4 songs of theirs. Links will be included in he bibliography section, but I chose their Under Pressure remix for the House Level, Hotel California for the Forest Level, Crazy Train for the School Level, and Stairway to Heaven for the Epilogue. It honestly took way longer than I thought to choose music that was from the 70s/80s, that 8 bit universe covered, and fit the tone of each level. However, I'm really happy with the end result both as tone building music and instant nostalgia inducing devices.
+
+Finally, let's talk about gameplay and story. I mentioned before how I wanted to build a nostalgic, dreamlike atmosphere through the mazes, fog, and music. To go with this theme, I made the core game mechanic being collecting "memories". Basically, you have to find Jennys, she'll tell you a little piece about herself or what you two have been through together (that ties into the location), then she disappears and you have to find the next one. There are 5 jennys/memories on each level, and you have to find all of them in order to progress to the next level. I wanted each memory to have some meaning based on the place and overall theme. The actual "code" behind each event is pretty similar. I initilized a billion switch (boolean) variables for every memory and level at the beginning, and then turned them off after you found each memory. I kept track of which ones you had seen through the memory items (that way the player can see their progress as well), and used conditional branches so that once you collected 5 items the blue fire would disappear allowing you to progress. The only other events I added were the intro, epilogue, transfer events (teleporting the player to the next map) and the grandma and cat. 
+The intro and epilogue are kinda self explanatory. The transfer/teleports are pretty straightforward as well, through I made the player walk through a green transition map every time they changed levels. Basically I wanted ingrain it into the player's brains that this isnt an accurate depiction of history as much as it is a feeling about history by taking them out of the environment at regular intervals. Basically an anti immersion device. 
+The cat is just a cat for the one memory, but Grandma I wanted to include on every map. It may seem a bit odd that she's the only other character in this fantasy/memory world (Mama and Papa are mentioned but never seen). However, since shes the one who buys Jenny the Raggedy Ann doll/always plays along, I wanted it to be as if she were somewhat immersed in their dream world as well. I had a special bond with my grandparents (who definitely would play along FAR more than my parents would), so I don't know if this will translate to each player but it had meaning to me. 
+Really that's kind of the overall theme to this game. Because the doll is from my family, all the events are based on stories from either me or my mom growing up. So, I don't really know if any of what I'm trying to get accross will translate to an audience who isn't me because I am not objective. However, I feel like by giving little snippets at a time, it  makes it more vague and mysterious. This could potentially make the audience think not only about my memories, but their memories, and the meaning of memories in general. At the end of the day, if my game makes someone think or feel something, then that's a win for me. 
